@@ -29,3 +29,5 @@
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiksahu55&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksahu55&layout=compact)
+
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
